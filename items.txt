@@ -1,0 +1,966 @@
+WEAPON	$	Alteration Staff	$	8	$	5	$	0	
+WEAPON	$	Ancient Nord Battle Axe of Cold	$	22	$	228	$	18	
+WEAPON	$	Ancient Nord Battle Axe of Frost	$	22	$	428	$	18	
+WEAPON	$	Ancient Nord Battle Axe of Ice	$	22	$	628	$	18	
+WEAPON	$	Ancient Nord Greatsword of Cold	$	18	$	235	$	17	
+WEAPON	$	Ancient Nord Greatsword of Frost	$	18	$	435	$	17	
+WEAPON	$	Ancient Nord Greatsword of Ice	$	18	$	635	$	17	
+WEAPON	$	Ancient Nord Sword of Cold	$	12	$	213	$	8	
+WEAPON	$	Ancient Nord Sword of Frost	$	12	$	413	$	8	
+WEAPON	$	Ancient Nord Sword of Ice	$	12	$	613	$	8	
+WEAPON	$	Ancient Nord War Axe of Cold	$	14	$	215	$	9	
+WEAPON	$	Ancient Nord War Axe of Cold	$	16	$	227	$	12	
+WEAPON	$	Ancient Nord War Axe of Frost	$	14	$	415	$	9	
+WEAPON	$	Ancient Nord War Axe of Ice	$	14	$	615	$	9	
+WEAPON	$	Blessed Hunting Bow	$	7	$	250	$	7	
+WEAPON	$	Blessed Imperial Bow	$	8	$	232	$	9	
+WEAPON	$	Blessed Imperial Sword	$	10	$	130	$	8	
+WEAPON	$	Blessed Iron Battleaxe	$	20	$	255	$	16	
+WEAPON	$	Blessed Iron Dagger	$	2	$	210	$	4	
+WEAPON	$	Blessed Iron Greatsword	$	16	$	250	$	15	
+WEAPON	$	Blessed Iron Mace	$	13	$	235	$	9	
+WEAPON	$	Blessed Iron Sword	$	9	$	225	$	7	
+WEAPON	$	Blessed Iron War Axe	$	11	$	230	$	8	
+WEAPON	$	Blessed Iron Warhammer	$	24	$	260	$	18	
+WEAPON	$	Blessed Steel Battleaxe	$	21	$	180	$	18	
+WEAPON	$	Blessed Steel Dagger	$	2.5	$	218	$	5	
+WEAPON	$	Blessed Steel Greatsword	$	17	$	290	$	17	
+WEAPON	$	Blessed Steel Mace	$	14	$	145	$	10	
+WEAPON	$	Blessed Steel Sword	$	10	$	245	$	8	
+WEAPON	$	Blessed Steel War Axe	$	12	$	135	$	9	
+WEAPON	$	Blessed Steel Warhammer	$	25	$	190	$	20	
+WEAPON	$	Bloodthorn	$	2.5	$	112	$	5	
+WEAPON	$	Bolar's Oathblade	$	10	$	225	$	11	
+WEAPON	$	Bow of the Hunt	$	7	$	457	$	10	
+WEAPON	$	Briarheart Geis	$	12	$	300	$	12	
+WEAPON	$	Broken Staff	$	10	$	5	$	17	
+WEAPON	$	Chillrend	$	11	$	414	$	10	
+WEAPON	$	Chillrend	$	12	$	500	$	11	
+WEAPON	$	Chillrend	$	13	$	765	$	12	
+WEAPON	$	Chillrend	$	14	$	805	$	13	
+WEAPON	$	Chillrend	$	15	$	1150	$	14	
+WEAPON	$	Chillrend	$	16	$	1700	$	15	
+WEAPON	$	Conjuration Staff	$	8	$	5	$	0	
+WEAPON	$	Daedric Battleaxe	$	27	$	2750	$	25	
+WEAPON	$	Daedric Battleaxe of Animus	$	27	$	3560	$	25	
+WEAPON	$	Daedric Battleaxe of Annihilating	$	27	$	3985	$	25	
+WEAPON	$	Daedric Battleaxe of Banishing	$	27	$	3558	$	25	
+WEAPON	$	Daedric Battleaxe of Blizzards	$	27	$	3752	$	25	
+WEAPON	$	Daedric Battleaxe of Damnation	$	27	$	3970	$	25	
+WEAPON	$	Daedric Battleaxe of Debilitation	$	27	$	3550	$	25	
+WEAPON	$	Daedric Battleaxe of Depleting	$	27	$	3553	$	25	
+WEAPON	$	Daedric Battleaxe of Despair	$	27	$	3562	$	25	
+WEAPON	$	Daedric Battleaxe of Devouring	$	27	$	3601	$	25	
+WEAPON	$	Daedric Battleaxe of Dread	$	27	$	3766	$	25	
+WEAPON	$	Daedric Battleaxe of Enervating	$	27	$	3754	$	25	
+WEAPON	$	Daedric Battleaxe of Evoking	$	27	$	3801	$	25	
+WEAPON	$	Daedric Battleaxe of Exhaustion	$	27	$	3950	$	25	
+WEAPON	$	Daedric Battleaxe of Expelling	$	27	$	3750	$	25	
+WEAPON	$	Daedric Battleaxe of Fire	$	27	$	3551	$	25	
+WEAPON	$	Daedric Battleaxe of Freezing	$	27	$	3552	$	25	
+WEAPON	$	Daedric Battleaxe of Garnering	$	27	$	3750	$	25	
+WEAPON	$	Daedric Battleaxe of Harvesting	$	27	$	3550	$	25	
+WEAPON	$	Daedric Battleaxe of Immobilizing	$	27	$	3750	$	25	
+WEAPON	$	Daedric Battleaxe of Leeching	$	27	$	3750	$	25	
+WEAPON	$	Daedric Battleaxe of Lethargy	$	27	$	3750	$	25	
+WEAPON	$	Daedric Battleaxe of Lightning	$	27	$	3784	$	25	
+WEAPON	$	Daedric Battleaxe of Malediction	$	27	$	3750	$	25	
+WEAPON	$	Daedric Battleaxe of Nullifying	$	27	$	3950	$	25	
+WEAPON	$	Daedric Battleaxe of Petrifying	$	27	$	3998	$	25	
+WEAPON	$	Daedric Battleaxe of Storms	$	27	$	3950	$	25	
+WEAPON	$	Daedric Battleaxe of Stunning	$	27	$	3566	$	25	
+WEAPON	$	Daedric Battleaxe of Subsuming	$	27	$	3950	$	25	
+WEAPON	$	Daedric Battleaxe of Terror	$	27	$	3972	$	25	
+WEAPON	$	Daedric Battleaxe of the Blaze	$	27	$	3750	$	25	
+WEAPON	$	Daedric Battleaxe of the Inferno	$	27	$	3952	$	25	
+WEAPON	$	Daedric Battleaxe of the Sorcerer	$	27	$	4015	$	25	
+WEAPON	$	Daedric Battleaxe of the Vampire	$	27	$	4048	$	25	
+WEAPON	$	Daedric Battleaxe of Thunderbolts	$	27	$	3550	$	25	
+WEAPON	$	Daedric Battleaxe of Winnowing	$	27	$	3588	$	25	
+WEAPON	$	Daedric Battleaxe of Winter	$	27	$	3953	$	25	
+WEAPON	$	Daedric Bow	$	18	$	2500	$	19	
+WEAPON	$	Daedric Bow of Animus	$	18	$	1685	$	19	
+WEAPON	$	Daedric Bow of Annihilating	$	18	$	2110	$	19	
+WEAPON	$	Daedric Bow of Banishing	$	18	$	1683	$	19	
+WEAPON	$	Daedric Bow of Blizzards	$	18	$	1877	$	19	
+WEAPON	$	Daedric Bow of Damnation	$	18	$	2095	$	19	
+WEAPON	$	Daedric Bow of Debilitation	$	18	$	1675	$	19	
+WEAPON	$	Daedric Bow of Depleting	$	18	$	1678	$	19	
+WEAPON	$	Daedric Bow of Despair	$	18	$	1687	$	19	
+WEAPON	$	Daedric Bow of Dread	$	18	$	1891	$	19	
+WEAPON	$	Daedric Bow of Enervating	$	18	$	1879	$	19	
+WEAPON	$	Daedric Bow of Exhaustion	$	18	$	2075	$	19	
+WEAPON	$	Daedric Bow of Expelling	$	18	$	1875	$	19	
+WEAPON	$	Daedric Bow of Fire	$	18	$	1676	$	19	
+WEAPON	$	Daedric Bow of Freezing	$	18	$	1677	$	19	
+WEAPON	$	Daedric Bow of Immobilizing	$	18	$	1875	$	19	
+WEAPON	$	Daedric Bow of Lethargy	$	18	$	1875	$	19	
+WEAPON	$	Daedric Bow of Lightning	$	18	$	1909	$	19	
+WEAPON	$	Daedric Bow of Malediction	$	18	$	1875	$	19	
+WEAPON	$	Daedric Bow of Nullifying	$	18	$	2075	$	19	
+WEAPON	$	Daedric Bow of Petrifying	$	18	$	2123	$	19	
+WEAPON	$	Daedric Bow of Storms	$	18	$	2075	$	19	
+WEAPON	$	Daedric Bow of Stunning	$	18	$	1691	$	19	
+WEAPON	$	Daedric Bow of Terror	$	18	$	2097	$	19	
+WEAPON	$	Daedric Bow of the Blaze	$	18	$	1875	$	19	
+WEAPON	$	Daedric Bow of the Inferno	$	18	$	2077	$	19	
+WEAPON	$	Daedric Bow of Thunderbolts	$	18	$	1675	$	19	
+WEAPON	$	Daedric Bow of Winter	$	18	$	2078	$	19	
+WEAPON	$	Daedric Dagger	$	6	$	500	$	11	
+WEAPON	$	Daedric Dagger of Animus	$	6	$	1310	$	11	
+WEAPON	$	Daedric Dagger of Annihilating	$	6	$	1735	$	11	
+WEAPON	$	Daedric Dagger of Banishing	$	6	$	1308	$	11	
+WEAPON	$	Daedric Dagger of Blizzards	$	6	$	1502	$	11	
+WEAPON	$	Daedric Dagger of Damnation	$	6	$	1720	$	11	
+WEAPON	$	Daedric Dagger of Debilitation	$	6	$	1300	$	11	
+WEAPON	$	Daedric Dagger of Depleting	$	6	$	1303	$	11	
+WEAPON	$	Daedric Dagger of Despair	$	6	$	1312	$	11	
+WEAPON	$	Daedric Dagger of Devouring	$	6	$	1351	$	11	
+WEAPON	$	Daedric Dagger of Dread	$	6	$	1516	$	11	
+WEAPON	$	Daedric Dagger of Enervating	$	6	$	1504	$	11	
+WEAPON	$	Daedric Dagger of Evoking	$	6	$	1551	$	11	
+WEAPON	$	Daedric Dagger of Exhaustion	$	6	$	1700	$	11	
+WEAPON	$	Daedric Dagger of Expelling	$	6	$	1500	$	11	
+WEAPON	$	Daedric Dagger of Fire	$	6	$	1301	$	11	
+WEAPON	$	Daedric Dagger of Freezing	$	6	$	1302	$	11	
+WEAPON	$	Daedric Dagger of Garnering	$	6	$	1500	$	11	
+WEAPON	$	Daedric Dagger of Harvesting	$	6	$	1300	$	11	
+WEAPON	$	Daedric Dagger of Immobilizing	$	6	$	1500	$	11	
+WEAPON	$	Daedric Dagger of Leeching	$	6	$	1500	$	11	
+WEAPON	$	Daedric Dagger of Lethargy	$	6	$	1500	$	11	
+WEAPON	$	Daedric Dagger of Lightning	$	6	$	1534	$	11	
+WEAPON	$	Daedric Dagger of Malediction	$	6	$	1500	$	11	
+WEAPON	$	Daedric Dagger of Nullifying	$	6	$	1700	$	11	
+WEAPON	$	Daedric Dagger of Petrifying	$	6	$	1748	$	11	
+WEAPON	$	Daedric Dagger of Storms	$	6	$	1700	$	11	
+WEAPON	$	Daedric Dagger of Stunning	$	6	$	1316	$	11	
+WEAPON	$	Daedric Dagger of Subsuming	$	6	$	1700	$	11	
+WEAPON	$	Daedric Dagger of Terror	$	6	$	1722	$	11	
+WEAPON	$	Daedric Dagger of the Blaze	$	6	$	1500	$	11	
+WEAPON	$	Daedric Dagger of the Inferno	$	6	$	1702	$	11	
+WEAPON	$	Daedric Dagger of the Sorcerer	$	6	$	1765	$	11	
+WEAPON	$	Daedric Dagger of the Vampire	$	6	$	1798	$	11	
+WEAPON	$	Daedric Dagger of Thunderbolts	$	6	$	1300	$	11	
+WEAPON	$	Daedric Dagger of Winnowing	$	6	$	1338	$	11	
+WEAPON	$	Daedric Dagger of Winter	$	6	$	1703	$	11	
+WEAPON	$	Daedric Greatsword	$	23	$	2500	$	24	
+WEAPON	$	Daedric Greatsword of Animus	$	23	$	3310	$	24	
+WEAPON	$	Daedric Greatsword of Annihilating	$	23	$	3735	$	24	
+WEAPON	$	Daedric Greatsword of Banishing	$	23	$	3308	$	24	
+WEAPON	$	Daedric Greatsword of Blizzards	$	23	$	3502	$	24	
+WEAPON	$	Daedric Greatsword of Damnation	$	23	$	3720	$	24	
+WEAPON	$	Daedric Greatsword of Debilitation	$	23	$	3300	$	24	
+WEAPON	$	Daedric Greatsword of Depleting	$	23	$	3303	$	24	
+WEAPON	$	Daedric Greatsword of Despair	$	23	$	3312	$	24	
+WEAPON	$	Daedric Greatsword of Devouring	$	23	$	3351	$	24	
+WEAPON	$	Daedric Greatsword of Dread	$	23	$	3516	$	24	
+WEAPON	$	Daedric Greatsword of Enervating	$	23	$	3504	$	24	
+WEAPON	$	Daedric Greatsword of Evoking	$	23	$	3551	$	24	
+WEAPON	$	Daedric Greatsword of Exhaustion	$	23	$	3700	$	24	
+WEAPON	$	Daedric Greatsword of Expelling	$	23	$	3500	$	24	
+WEAPON	$	Daedric Greatsword of Fire	$	23	$	3301	$	24	
+WEAPON	$	Daedric Greatsword of Freezing	$	23	$	3302	$	24	
+WEAPON	$	Daedric Greatsword of Garnering	$	23	$	3500	$	24	
+WEAPON	$	Daedric Greatsword of Harvesting	$	23	$	3300	$	24	
+WEAPON	$	Daedric Greatsword of Immobilizing	$	23	$	3500	$	24	
+WEAPON	$	Daedric Greatsword of Leeching	$	23	$	3500	$	24	
+WEAPON	$	Daedric Greatsword of Lethargy	$	23	$	3500	$	24	
+WEAPON	$	Daedric Greatsword of Lightning	$	23	$	3534	$	24	
+WEAPON	$	Daedric Greatsword of Malediction	$	23	$	3500	$	24	
+WEAPON	$	Daedric Greatsword of Nullifying	$	23	$	3700	$	24	
+WEAPON	$	Daedric Greatsword of Petrifying	$	23	$	3748	$	24	
+WEAPON	$	Daedric Greatsword of Storms	$	23	$	3700	$	24	
+WEAPON	$	Daedric Greatsword of Stunning	$	23	$	3316	$	24	
+WEAPON	$	Daedric Greatsword of Subsuming	$	23	$	3700	$	24	
+WEAPON	$	Daedric Greatsword of Terror	$	23	$	3722	$	24	
+WEAPON	$	Daedric Greatsword of the Blaze	$	23	$	3500	$	24	
+WEAPON	$	Daedric Greatsword of the Inferno	$	23	$	3702	$	24	
+WEAPON	$	Daedric Greatsword of the Sorcerer	$	23	$	3765	$	24	
+WEAPON	$	Daedric Greatsword of the Vampire	$	23	$	3798	$	24	
+WEAPON	$	Daedric Greatsword of Thunderbolts	$	23	$	3300	$	24	
+WEAPON	$	Daedric Greatsword of Winnowing	$	23	$	3338	$	24	
+WEAPON	$	Daedric Greatsword of Winter	$	23	$	3703	$	24	
+WEAPON	$	Daedric Mace	$	20	$	1750	$	16	
+WEAPON	$	Daedric Mace of Animus	$	20	$	2560	$	16	
+WEAPON	$	Daedric Mace of Annihilating	$	20	$	2985	$	16	
+WEAPON	$	Daedric Mace of Banishing	$	20	$	2558	$	16	
+WEAPON	$	Daedric Mace of Blizzards	$	20	$	2752	$	16	
+WEAPON	$	Daedric Mace of Damnation	$	20	$	2970	$	16	
+WEAPON	$	Daedric Mace of Debilitation	$	20	$	2550	$	16	
+WEAPON	$	Daedric Mace of Depleting	$	20	$	2553	$	16	
+WEAPON	$	Daedric Mace of Despair	$	20	$	2562	$	16	
+WEAPON	$	Daedric Mace of Devouring	$	20	$	2601	$	16	
+WEAPON	$	Daedric Mace of Dread	$	20	$	2766	$	16	
+WEAPON	$	Daedric Mace of Enervating	$	20	$	2754	$	16	
+WEAPON	$	Daedric Mace of Evoking	$	20	$	2801	$	16	
+WEAPON	$	Daedric Mace of Exhaustion	$	20	$	2950	$	16	
+WEAPON	$	Daedric Mace of Expelling	$	20	$	2750	$	16	
+WEAPON	$	Daedric Mace of Fire	$	20	$	2551	$	16	
+WEAPON	$	Daedric Mace of Freezing	$	20	$	2552	$	16	
+WEAPON	$	Daedric Mace of Garnering	$	20	$	2750	$	16	
+WEAPON	$	Daedric Mace of Harvesting	$	20	$	2550	$	16	
+WEAPON	$	Daedric Mace of Immobilizing	$	20	$	2750	$	16	
+WEAPON	$	Daedric Mace of Leeching	$	20	$	2750	$	16	
+WEAPON	$	Daedric Mace of Lethargy	$	20	$	2750	$	16	
+WEAPON	$	Daedric Mace of Lightning	$	20	$	2784	$	16	
+WEAPON	$	Daedric Mace of Malediction	$	20	$	2750	$	16	
+WEAPON	$	Daedric Mace of Nullifying	$	20	$	2950	$	16	
+WEAPON	$	Daedric Mace of Petrifying	$	20	$	2998	$	16	
+WEAPON	$	Daedric Mace of Storms	$	20	$	2950	$	16	
+WEAPON	$	Daedric Mace of Stunning	$	20	$	2566	$	16	
+WEAPON	$	Daedric Mace of Subsuming	$	20	$	2950	$	16	
+WEAPON	$	Daedric Mace of Terror	$	20	$	2972	$	16	
+WEAPON	$	Daedric Mace of the Blaze	$	20	$	2750	$	16	
+WEAPON	$	Daedric Mace of the Inferno	$	20	$	2952	$	16	
+WEAPON	$	Daedric Mace of the Sorcerer	$	20	$	3015	$	16	
+WEAPON	$	Daedric Mace of the Vampire	$	20	$	3048	$	16	
+WEAPON	$	Daedric Mace of Thunderbolts	$	20	$	2550	$	16	
+WEAPON	$	Daedric Mace of Winnowing	$	20	$	2588	$	16	
+WEAPON	$	Daedric Mace of Winter	$	20	$	2953	$	16	
+WEAPON	$	Daedric Sword	$	16	$	1250	$	14	
+WEAPON	$	Daedric Sword of Animus	$	16	$	2060	$	14	
+WEAPON	$	Daedric Sword of Annihilating	$	16	$	2485	$	14	
+WEAPON	$	Daedric Sword of Banishing	$	16	$	2058	$	14	
+WEAPON	$	Daedric Sword of Blizzards	$	16	$	2252	$	14	
+WEAPON	$	Daedric Sword of Damnation	$	16	$	2470	$	14	
+WEAPON	$	Daedric Sword of Debilitation	$	16	$	2050	$	14	
+WEAPON	$	Daedric Sword of Depleting	$	16	$	2053	$	14	
+WEAPON	$	Daedric Sword of Despair	$	16	$	2062	$	14	
+WEAPON	$	Daedric Sword of Devouring	$	16	$	2101	$	14	
+WEAPON	$	Daedric Sword of Dread	$	16	$	2266	$	14	
+WEAPON	$	Daedric Sword of Enervating	$	16	$	2254	$	14	
+WEAPON	$	Daedric Sword of Evoking	$	16	$	2301	$	14	
+WEAPON	$	Daedric Sword of Exhaustion	$	16	$	2450	$	14	
+WEAPON	$	Daedric Sword of Expelling	$	16	$	2250	$	14	
+WEAPON	$	Daedric Sword of Fire	$	16	$	2051	$	14	
+WEAPON	$	Daedric Sword of Freezing	$	16	$	2052	$	14	
+WEAPON	$	Daedric Sword of Garnering	$	16	$	2250	$	14	
+WEAPON	$	Daedric Sword of Harvesting	$	16	$	2050	$	14	
+WEAPON	$	Daedric Sword of Immobilizing	$	16	$	2250	$	14	
+WEAPON	$	Daedric Sword of Leeching	$	16	$	2250	$	14	
+WEAPON	$	Daedric Sword of Lethargy	$	16	$	2250	$	14	
+WEAPON	$	Daedric Sword of Lightning	$	16	$	2284	$	14	
+WEAPON	$	Daedric Sword of Malediction	$	16	$	2250	$	14	
+WEAPON	$	Daedric Sword of Nullifying	$	16	$	2450	$	14	
+WEAPON	$	Daedric Sword of Petrifying	$	16	$	2498	$	14	
+WEAPON	$	Daedric Sword of Storms	$	16	$	2450	$	14	
+WEAPON	$	Daedric Sword of Stunning	$	16	$	2066	$	14	
+WEAPON	$	Daedric Sword of Subsuming	$	16	$	2450	$	14	
+WEAPON	$	Daedric Sword of Terror	$	16	$	2472	$	14	
+WEAPON	$	Daedric Sword of the Blaze	$	16	$	2250	$	14	
+WEAPON	$	Daedric Sword of the Inferno	$	16	$	2452	$	14	
+WEAPON	$	Daedric Sword of the Sorcerer	$	16	$	2515	$	14	
+WEAPON	$	Daedric Sword of the Vampire	$	16	$	2548	$	14	
+WEAPON	$	Daedric Sword of Thunderbolts	$	16	$	2050	$	14	
+WEAPON	$	Daedric Sword of Winnowing	$	16	$	2088	$	14	
+WEAPON	$	Daedric Sword of Winter	$	16	$	2453	$	14	
+WEAPON	$	Daedric War Axe	$	18	$	1500	$	15	
+WEAPON	$	Daedric War Axe of Animus	$	18	$	2310	$	15	
+WEAPON	$	Daedric War Axe of Annihilating	$	18	$	2735	$	15	
+WEAPON	$	Daedric War Axe of Banishing	$	18	$	2308	$	15	
+WEAPON	$	Daedric War Axe of Blizzards	$	18	$	2502	$	15	
+WEAPON	$	Daedric War Axe of Damnation	$	18	$	2720	$	15	
+WEAPON	$	Daedric War Axe of Debilitation	$	18	$	2300	$	15	
+WEAPON	$	Daedric War Axe of Depleting	$	18	$	2303	$	15	
+WEAPON	$	Daedric War Axe of Despair	$	18	$	2312	$	15	
+WEAPON	$	Daedric War Axe of Devouring	$	18	$	2351	$	15	
+WEAPON	$	Daedric War Axe of Dread	$	18	$	2516	$	15	
+WEAPON	$	Daedric War Axe of Enervating	$	18	$	2504	$	15	
+WEAPON	$	Daedric War Axe of Evoking	$	18	$	2551	$	15	
+WEAPON	$	Daedric War Axe of Exhaustion	$	18	$	2700	$	15	
+WEAPON	$	Daedric War Axe of Expelling	$	18	$	2500	$	15	
+WEAPON	$	Daedric War Axe of Fire	$	18	$	2301	$	15	
+WEAPON	$	Daedric War Axe of Freezing	$	18	$	2302	$	15	
+WEAPON	$	Daedric War Axe of Garnering	$	18	$	2500	$	15	
+WEAPON	$	Daedric War Axe of Harvesting	$	18	$	2300	$	15	
+WEAPON	$	Daedric War Axe of Immobilizing	$	18	$	2500	$	15	
+WEAPON	$	Daedric War Axe of Leeching	$	18	$	2500	$	15	
+WEAPON	$	Daedric War Axe of Lethargy	$	18	$	2500	$	15	
+WEAPON	$	Daedric War Axe of Lightning	$	18	$	2534	$	15	
+WEAPON	$	Daedric War Axe of Malediction	$	18	$	2500	$	15	
+WEAPON	$	Daedric War Axe of Nullifying	$	18	$	2700	$	15	
+WEAPON	$	Daedric War Axe of Petrifying	$	18	$	2748	$	15	
+WEAPON	$	Daedric War Axe of Storms	$	18	$	2700	$	15	
+WEAPON	$	Daedric War Axe of Stunning	$	18	$	2316	$	15	
+WEAPON	$	Daedric War Axe of Subsuming	$	18	$	2700	$	15	
+WEAPON	$	Daedric War Axe of Terror	$	18	$	2722	$	15	
+WEAPON	$	Daedric War Axe of the Blaze	$	18	$	2500	$	15	
+WEAPON	$	Daedric War Axe of the Inferno	$	18	$	2702	$	15	
+WEAPON	$	Daedric War Axe of the Sorcerer	$	18	$	2765	$	15	
+WEAPON	$	Daedric War Axe of the Vampire	$	18	$	2798	$	15	
+WEAPON	$	Daedric War Axe of Thunderbolts	$	18	$	2300	$	15	
+WEAPON	$	Daedric War Axe of Winnowing	$	18	$	2338	$	15	
+WEAPON	$	Daedric War Axe of Winter	$	18	$	2703	$	15	
+WEAPON	$	Daedric Warhammer	$	31	$	4000	$	27	
+WEAPON	$	Daedric Warhammer of Animus	$	31	$	4810	$	27	
+WEAPON	$	Daedric Warhammer of Annihilating	$	31	$	5235	$	27	
+WEAPON	$	Daedric Warhammer of Banishing	$	31	$	4808	$	27	
+WEAPON	$	Daedric Warhammer of Blizzards	$	31	$	5002	$	27	
+WEAPON	$	Daedric Warhammer of Damnation	$	31	$	5220	$	27	
+ARMOR	$	Daedric Boots	$	10	$	6625	$	18
+ARMOR	$	Ebony Mail	$	28	$	5000	$	45
+ARMOR	$	Volsung	$	5	$	4611	$	21
+ARMOR	$	Daedric Armor	$	50	$	3200	$	49
+ARMOR	$	Konahrik	$	7	$	3200	$	24
+ARMOR	$	Dragonplate Armor	$	40	$	2125	$	46
+ARMOR	$	The Gauldur Amulet	$	0	$	1864	$	0
+ARMOR	$	Krosis	$	5	$	1615	$	21
+ARMOR	$	Daedric Helmet	$	15	$	1600	$	23
+ARMOR	$	Daedric Helmet	$	15	$	1600	$	23
+ARMOR	$	Daedric Shield	$	15	$	1600	$	36
+ARMOR	$	Dragonscale Armor	$	10	$	1500	$	41
+ARMOR	$	Ebony Armor	$	385	$	1500	$	43
+ARMOR	$	Dragonplate Helmet	$	8	$	1050	$	22
+ARMOR	$	Dragonplate Shield	$	15	$	1050	$	34
+ARMOR	$	Orcish Armor	$	35	$	1000	$	40
+ARMOR	$	Glass Armor	$	7	$	900	$	38
+ARMOR	$	Ring of Namira	$	0.25	$	870	$	0
+ARMOR	$	Dragonscale Helmet	$	4	$	750	$	17
+ARMOR	$	Dragonscale Shield	$	6	$	750	$	29
+ARMOR	$	Ebony Helmet	$	10	$	750	$	21
+ARMOR	$	Ebony Shield	$	14	$	750	$	32
+ARMOR	$	Daedric Armor	$	38	$	640	$	49
+ARMOR	$	Morokei	$	4	$	637	$	5
+ARMOR	$	Daedric Gauntlets	$	6	$	625	$	18
+ARMOR	$	Steel Plate Armor	$	38	$	625	$	40
+ARMOR	$	Elven Gilded Armor	$	4	$	550	$	35
+ARMOR	$	Orcish Helmet	$	8	$	500	$	20
+ARMOR	$	Orcish Shield	$	14	$	500	$	30
+ARMOR	$	Glass Helmet	$	2	$	450	$	16
+ARMOR	$	Glass Shield	$	6	$	450	$	27
+ARMOR	$	Dragonplate Boots	$	8	$	425	$	17
+ARMOR	$	Dragonplate Gauntlets	$	8	$	425	$	17
+ARMOR	$	Falmer Supple Bow	$	20	$	410	$	15
+ARMOR	$	Blades Armor	$	45	$	400	$	44
+ARMOR	$	Dwarven Armor	$	45	$	400	$	34
+ARMOR	$	Ring of Hircine	$	0.25	$	400	$	0
+ARMOR	$	Scaled Armor	$	6	$	350	$	32
+ARMOR	$	Scaled Horn Armor	$	6	$	350	$	32
+ARMOR	$	Blades Sword	$	10	$	300	$	11
+ARMOR	$	Dragonscale Boots	$	3	$	300	$	12
+ARMOR	$	Dragonscale Gauntlets	$	3	$	300	$	12
+ARMOR	$	Guild Master's Armor	$	10	$	300	$	50
+ARMOR	$	Steel Plate Helmet	$	6	$	300	$	19
+ARMOR	$	Targe of the Blooded	$	8	$	300	$	20
+ARMOR	$	Ebony Boots	$	7	$	275	$	16
+ARMOR	$	Ebony Gauntlets	$	7	$	275	$	16
+ARMOR	$	Falmer Armor	$	20	$	275	$	31
+ARMOR	$	Steel Armor	$	35	$	275	$	31
+ARMOR	$	Steel Armor	$	35	$	275	$	31
+ARMOR	$	Honed Falmer War Axe	$	21	$	245	$	13
+ARMOR	$	Supple Ancient Nord Bow	$	18	$	235	$	14
+ARMOR	$	Blades Shield	$	12	$	225	$	26
+ARMOR	$	Dwarven Shield	$	12	$	225	$	26
+ARMOR	$	Elven Armor	$	4	$	225	$	29
+ARMOR	$	Spellbreaker	$	12	$	225	$	38
+ARMOR	$	Forsworn Staff	$	8	$	205	$	0
+ARMOR	$	Forsworn Staff	$	8	$	205	$	0
+ARMOR	$	Honed Falmer Sword	$	18	$	205	$	12
+ARMOR	$	Banded Iron Armor	$	35	$	200	$	28
+ARMOR	$	Blades Helmet	$	12	$	200	$	18
+ARMOR	$	Dwarven Helmet	$	12	$	200	$	18
+ARMOR	$	Orcish Boots	$	7	$	200	$	15
+ARMOR	$	Orcish Gauntlets	$	7	$	200	$	15
+ARMOR	$	Glass Boots	$	2	$	190	$	11
+ARMOR	$	Glass Gauntlets	$	2	$	190	$	11
+ARMOR	$	Scaled Helmet	$	2	$	175	$	14
+ARMOR	$	Steel Shield	$	12	$	150	$	24
+ARMOR	$	Forsworn Bow	$	11	$	145	$	12
+ARMOR	$	Falmer Bow	$	15	$	135	$	12
+ARMOR	$	Ancient Nord Armor	$	28	$	125	$	25
+ARMOR	$	Daedric Boots	$	9	$	125	$	18
+ARMOR	$	Daedric Gauntlets	$	9	$	125	$	18
+ARMOR	$	Elven Light Armor	$	4	$	125	$	26
+ARMOR	$	Iron Armor	$	30	$	125	$	25
+ARMOR	$	Leather Armor	$	6	$	125	$	26
+ARMOR	$	Steel Helmet	$	5	$	125	$	17
+ARMOR	$	Steel Horned Helmet	$	5	$	125	$	17
+ARMOR	$	Steel Plate Boots	$	9	$	125	$	14
+ARMOR	$	Steel Plate Gauntlets	$	6	$	125	$	14
+ARMOR	$	Studded Imperial Armor	$	6	$	125	$	23
+ARMOR	$	Elven Shield	$	4	$	115	$	21
+ARMOR	$	Elven Helmet	$	1	$	110	$	13
+ARMOR	$	Ancient Nord Amulet	$	1	$	100	$	0
+ARMOR	$	Banded Iron Shield	$	12	$	100	$	22
+ARMOR	$	Forsworn Armor	$	6	$	100	$	26
+ARMOR	$	Guild Master's Boots	$	2	$	100	$	15
+ARMOR	$	Guild Master's Gloves	$	2	$	100	$	15
+ARMOR	$	Imperial Armor	$	35	$	100	$	25
+ARMOR	$	Forsworn Axe	$	15	$	90	$	11
+ARMOR	$	Imperial Bow	$	8	$	90	$	9
+ARMOR	$	Blades Boots	$	10	$	85	$	13
+ARMOR	$	Blades Gauntlets	$	8	$	85	$	18
+ARMOR	$	Dwarven Boots	$	10	$	85	$	13
+ARMOR	$	Dwarven Gauntlets	$	8	$	85	$	13
+ARMOR	$	Falmer War Axe	$	21	$	82	$	11
+ARMOR	$	Worn Shrouded Armor	$	6	$	80	$	20
+ARMOR	$	Worn Shrouded Armor	$	6	$	80	$	20
+ARMOR	$	Falkreath Guard's Armor	$	6	$	75	$	23
+ARMOR	$	Hjaalmarch Guard's Armor	$	6	$	75	$	23
+ARMOR	$	Imperial Light Armor	$	6	$	75	$	23
+ARMOR	$	Markarth Guard's Armor	$	6	$	75	$	23
+ARMOR	$	Pale Guard's Armor	$	6	$	75	$	23
+ARMOR	$	Penitus Oculatus Armor	$	6	$	75	$	23
+ARMOR	$	Riften Guard's Armor	$	6	$	75	$	23
+ARMOR	$	Solitude Guard's Armor	$	6	$	75	$	23
+ARMOR	$	Studded Armor	$	6	$	75	$	23
+ARMOR	$	Whiterun Guard's Armor	$	6	$	75	$	23
+ARMOR	$	Winterhold Guard's Armor	$	6	$	75	$	23
+ARMOR	$	Forsworn Sword	$	13	$	70	$	10
+ARMOR	$	Scaled Boots	$	2	$	70	$	9
+ARMOR	$	Scaled Bracers	$	2	$	70	$	9
+ARMOR	$	Falmer Sword	$	18	$	67	$	10
+ARMOR	$	General Tullius' Armor	$	18	$	65	$	31
+ARMOR	$	Honed Ancient Nord Greatsword	$	21	$	63	$	20
+ARMOR	$	Ancient Nord Helmet	$	4	$	60	$	15
+ARMOR	$	Elven Light Helmet	$	1	$	60	$	12
+ARMOR	$	Iron Helmet	$	5	$	60	$	15
+ARMOR	$	Leather Helmet	$	2	$	60	$	12
+ARMOR	$	Falmer Boots	$	4	$	55	$	12
+ARMOR	$	Falmer Gauntlets	$	4	$	55	$	12
+ARMOR	$	Steel Cuffed Boots	$	8	$	55	$	12
+ARMOR	$	Steel Imperial Gauntlets	$	4	$	55	$	12
+ARMOR	$	Steel Nordic Gauntlets	$	4	$	55	$	12
+ARMOR	$	Forsworn Headdress	$	2	$	50	$	12
+ARMOR	$	Fur Armor	$	6	$	50	$	23
+ARMOR	$	Fur Armor	$	6	$	50	$	23
+ARMOR	$	Fur Armor	$	6	$	50	$	23
+ARMOR	$	Fur Armor	$	6	$	50	$	23
+ARMOR	$	Hide Armor	$	5	$	50	$	20
+ARMOR	$	Honed Ancient Nord Battle Axe	$	25	$	50	$	21
+ARMOR	$	Imperial Helmet	$	5	$	50	$	15
+ARMOR	$	Imperial Shield	$	12	$	50	$	20
+ARMOR	$	Worn Shrouded Cowl	$	2	$	50	$	8
+ARMOR	$	Worn Shrouded Cowl	$	2	$	50	$	8
+ARMOR	$	Worn Shrouded Gloves	$	2	$	50	$	4
+ARMOR	$	Worn Shrouded Gloves	$	2	$	50	$	4
+ARMOR	$	Ancient Nord Bow	$	12	$	45	$	8
+ARMOR	$	Elven Boots	$	1	$	45	$	8
+ARMOR	$	Elven Gauntlets	$	1	$	45	$	8
+ARMOR	$	Worn Shrouded Boots	$	2	$	45	$	3
+ARMOR	$	Worn Shrouded Boots	$	2	$	45	$	3
+ARMOR	$	Falkreath Guard's Shield	$	3	$	40	$	17
+ARMOR	$	Hjaalmarch Guard's Shield	$	3	$	40	$	17
+ARMOR	$	Imperial Light Shield	$	4	$	40	$	19
+ARMOR	$	Markarth Guard's Shield	$	3	$	40	$	17
+ARMOR	$	Pale Guard's Shield	$	3	$	40	$	17
+ARMOR	$	Riften Guard's Shield	$	3	$	40	$	17
+ARMOR	$	Solitude Guard's Shield	$	3	$	40	$	17
+ARMOR	$	Whiterun Guard's Shield	$	3	$	40	$	17
+ARMOR	$	Windhelm Guard's Shield	$	3	$	40	$	17
+ARMOR	$	Winterhold Guard's Shield	$	3	$	40	$	17
+ARMOR	$	Ancient Nord Greatsword	$	18	$	35	$	17
+ARMOR	$	Falkreath Guard's Helmet	$	2	$	35	$	11
+ARMOR	$	Hjaalmarch Guard's Helmet	$	2	$	35	$	11
+ARMOR	$	Imperial Light Helmet	$	2	$	35	$	11
+ARMOR	$	Markarth Guard's Helmet	$	2	$	35	$	11
+ARMOR	$	Pale Guard's Helmet	$	2	$	35	$	11
+ARMOR	$	Penitus Oculatus Helmet	$	1	$	35	$	11
+ARMOR	$	Riften Guard's Helmet	$	2	$	35	$	11
+ARMOR	$	Solitude Guard's Helmet	$	2	$	35	$	11
+ARMOR	$	Stormcloak Officer Armor	$	8	$	35	$	27
+ARMOR	$	Whiterun Guard's Helmet	$	2	$	35	$	11
+ARMOR	$	Winterhold Guard's Helmet	$	2	$	35	$	11
+ARMOR	$	Imperial Officer's Helmet	$	4	$	30	$	17
+ARMOR	$	Ancient Nord Battle Axe	$	22	$	28	$	18
+ARMOR	$	Honed Draugr War Axe	$	16	$	27	$	12
+ARMOR	$	Ancient Nord Boots	$	5	$	25	$	10
+ARMOR	$	Ancient Nord Gauntlets	$	4	$	25	$	10
+ARMOR	$	Elven Light Boots	$	1	$	25	$	7
+ARMOR	$	Elven Light Gauntlets	$	1	$	25	$	7
+ARMOR	$	Falmer Helmet	$	5	$	25	$	10
+ARMOR	$	Hide Helmet	$	2	$	25	$	10
+ARMOR	$	Hide Shield	$	4	$	25	$	15
+ARMOR	$	Iron Boots	$	6	$	25	$	10
+ARMOR	$	Iron Gauntlets	$	5	$	25	$	10
+ARMOR	$	Leather Boots	$	2	$	25	$	7
+ARMOR	$	Leather Bracers	$	2	$	25	$	7
+ARMOR	$	Sheogorath Boots	$	0	$	25	$	0
+ARMOR	$	Sheogorath Outfit	$	1	$	25	$	0
+ARMOR	$	Stormcloak Cuirass	$	8	$	25	$	21
+ARMOR	$	Thieves Guild Boots	$	0	$	25	$	8
+ARMOR	$	Fur Helmet	$	1	$	23	$	11
+ARMOR	$	Fur Helmet	$	1	$	23	$	11
+ARMOR	$	Honed Ancient Nord Sword	$	15	$	23	$	11
+ARMOR	$	Imperial Sword	$	10	$	23	$	8
+ARMOR	$	Forsworn Boots	$	2	$	20	$	7
+ARMOR	$	Forsworn Gauntlets	$	2	$	20	$	7
+ARMOR	$	Imperial Boots	$	8	$	20	$	10
+ARMOR	$	Ancient Nord War Axe	$	14	$	15	$	9
+ARMOR	$	Imperial Bracers	$	4	$	15	$	10
+ARMOR	$	Imperial Light Boots	$	2	$	15	$	6
+ARMOR	$	Imperial Light Bracers	$	1	$	15	$	6
+ARMOR	$	Penitus Oculatus Boots	$	1	$	15	$	6
+ARMOR	$	Penitus Oculatus Bracers	$	1	$	15	$	6
+ARMOR	$	Stormcloak Officer Helmet	$	2	$	15	$	12
+ARMOR	$	Ancient Nord Sword	$	12	$	13	$	8
+ARMOR	$	Eastmarch Guard Helmet	$	2	$	12	$	12
+ARMOR	$	Stormcloak Helmet	$	2	$	12	$	10
+ARMOR	$	Falmer Shield	$	15	$	10	$	28
+ARMOR	$	Fur Bracers	$	1	$	10	$	6
+ARMOR	$	Fur Bracers	$	1	$	10	$	6
+ARMOR	$	Hide Boots	$	1	$	10	$	5
+ARMOR	$	Hide Bracers	$	1	$	10	$	5
+ARMOR	$	Stormcloak Officer Boots	$	2	$	7	$	7
+ARMOR	$	Stormcloak Officer Bracers	$	2	$	7	$	7
+ARMOR	$	Black Robes	$	1	$	5	$	0
+ARMOR	$	Fur Boots	$	2	$	5	$	5
+ARMOR	$	Fur Boots	$	2	$	5	$	5
+ARMOR	$	Fur Gauntlets	$	2	$	5	$	5
+ARMOR	$	Fur Gauntlets	$	2	$	5	$	5
+ARMOR	$	Boots	$	1	$	4	$	0
+ARMOR	$	Fur Shoes	$	2	$	4	$	6
+ARMOR	$	Fur Shoes	$	2	$	4	$	6
+ARMOR	$	Forsworn Armor	$	1	$	2	$	5
+ARMOR	$	Forsworn Armor	$	1	$	2	$	5
+ARMOR	$	Ancient Nord Helmet	$	1	$	1	$	1
+ARMOR	$	Ancient Nord Helmet	$	1	$	1	$	1
+ARMOR	$	Ancient Nord Helmet	$	1	$	1	$	1
+ARMOR	$	Karliah's Armor	$	0	$	0	$	29
+ARMOR	$	Karliah's Boots	$	0	$	0	$	8
+ARMOR	$	Karliah's Gloves	$	1	$	0	$	5
+ARMOR	$	Karliah's Hood	$	0	$	0	$	13
+ARMOR	$	Thieves Guild Armor	$	0	$	0	$	29
+ARMOR	$	Thieves Guild Gloves	$	1.5	$	0	$	8
+ARMOR	$	Thieves Guild Hood	$	1	$	0	$	13
+ARMOR	$	Thieves Guild Hood Alt	$	0	$	0	$	13
+ARMOR	$	Thieves Guild Variant Armor	$	0	$	0	$	29
+ARMOR	$	Thieves Guild Variant Boots	$	0	$	0	$	8
+ARMOR	$	Thieves Guild Variant Gloves	$	1	$	0	$	5
+ARMOR	$	Thieves Guild Variant Hood	$	0	$	0	$	13
+MISC	$	Amethyst	$	0.1	$	120
+MISC	$	Ancient Traveler's Skull	$	5	$	0
+MISC	$	Aretino Family Heirloom	$	0.5	$	100
+MISC	$	Attunement Sphere	$	0	$	0
+MISC	$	Balbus's Fork	$	0	$	0
+MISC	$	Balwen's Ornamental Ring	$	3	$	0
+MISC	$	Barenziahs Crown	$	0	$	0
+MISC	$	Basket	$	0.5	$	1
+MISC	$	Basket	$	0.5	$	1
+MISC	$	Basket	$	0.5	$	1
+MISC	$	Basket	$	0.5	$	1
+MISC	$	Basket	$	0.5	$	1
+MISC	$	Basket	$	0.5	$	1
+MISC	$	Basket	$	0.5	$	2
+MISC	$	Basket	$	0.5	$	1
+MISC	$	Bear Pelt	$	3	$	50
+MISC	$	Bee in a Jar	$	1	$	1
+MISC	$	Bellows	$	1	$	1
+MISC	$	Bent Dwemer Scrap Metal	$	2	$	15
+MISC	$	Black-Briar Mead Keg	$	20	$	0
+MISC	$	Blank Lexicon	$	0	$	0
+MISC	$	Bloody Rags	$	1	$	1
+MISC	$	Bowl	$	0.5	$	5
+MISC	$	Bowl	$	0.5	$	20
+MISC	$	Bowl	$	0.5	$	15
+MISC	$	Bowl	$	0.5	$	10
+MISC	$	Bowl	$	0.5	$	5
+MISC	$	Bowl	$	0.5	$	5
+MISC	$	Briar Heart	$	1	$	0
+MISC	$	Broken Azura's Star	$	0.5	$	0
+MISC	$	Broken Iron Mace Handle	$	5	$	5
+MISC	$	Broken Iron Mace Head	$	8	$	5
+MISC	$	Broken Iron Sword Blade	$	6	$	5
+MISC	$	Broken Iron Sword Handle	$	3	$	5
+MISC	$	Broken Iron War Axe Handle	$	5	$	5
+MISC	$	Broken Iron War Axe Head	$	6	$	5
+MISC	$	Broken Steel Battle Axe Handle	$	9	$	10
+MISC	$	Broken Steel Battle Axe Head	$	12	$	10
+MISC	$	Broken Steel Greatsword Blade	$	10	$	10
+MISC	$	Broken Steel Greatsword Handle	$	7	$	10
+MISC	$	Broken Steel Sword Blade	$	6	$	10
+MISC	$	Broken Steel Sword Handle	$	4	$	10
+MISC	$	Broken Steel Warhammer Handle	$	10	$	10
+MISC	$	Broken Steel Warhammer Head	$	15	$	10
+MISC	$	Broom	$	1	$	1
+MISC	$	Bucket	$	0.5	$	1
+MISC	$	Bucket	$	0.5	$	1
+MISC	$	Bucket	$	0.5	$	1
+MISC	$	Burial Urn	$	1	$	0
+MISC	$	Burned Book	$	2	$	0
+MISC	$	Bust of the Gray Fox	$	0	$	0
+MISC	$	Butterfly in a Jar	$	1	$	1
+MISC	$	Calcelmo's Stone Rubbing	$	0.5	$	0
+MISC	$	Candlestick	$	1	$	25
+MISC	$	Candlestick	$	1	$	25
+MISC	$	Candlestick	$	1	$	25
+MISC	$	Cast Iron Pot	$	6	$	8
+MISC	$	Cast Iron Pot	$	3	$	2
+MISC	$	Cave Bear Pelt	$	3	$	60
+MISC	$	Centurion Dynamo Core	$	4	$	131
+MISC	$	Charcoal	$	0.5	$	2
+MISC	$	Charcoal	$	1	$	5
+MISC	$	Chaurus Chitin	$	4	$	50
+MISC	$	Clothes Iron	$	3	$	7
+MISC	$	Coinpurse	$	0	$	0
+MISC	$	Coinpurse	$	0	$	0
+MISC	$	Coinpurse	$	0	$	0
+MISC	$	Colovian Brandy TEMP	$	2	$	0
+MISC	$	Coral Dragon Claw	$	0.5	$	150
+MISC	$	Cow Hide	$	2	$	10
+MISC	$	Cracked White Phial	$	0.5	$	0
+MISC	$	Crown of Barenziah	$	0	$	0
+MISC	$	Cup	$	0.5	$	5
+MISC	$	Cup	$	0.5	$	4
+MISC	$	Curious Silver Mold	$	1	$	250
+MISC	$	Deer Hide	$	2	$	10
+MISC	$	Deer Hide	$	2	$	10
+MISC	$	Deer Pelt	$	2	$	10
+MISC	$	Diamond	$	0.1	$	800
+MISC	$	Diamond Claw	$	0.5	$	1000
+MISC	$	Dibella Statue	$	2	$	100
+MISC	$	Dragon Bone	$	15	$	500
+MISC	$	Dragon Heartscales	$	10	$	250
+MISC	$	Dragon Scales	$	10	$	250
+MISC	$	Dragonfly in a Jar	$	1	$	1
+MISC	$	Dragonstone	$	25	$	0
+MISC	$	Dragonstone	$	25	$	0
+MISC	$	Drum	$	4	$	10
+MISC	$	Dwemer Bowl	$	2	$	20
+MISC	$	Dwemer Bowl	$	2	$	15
+MISC	$	Dwemer Bowl	$	2	$	20
+MISC	$	Dwemer Cog	$	10	$	5
+MISC	$	Dwemer Cup	$	0.5	$	6
+MISC	$	Dwemer Cup	$	0.5	$	6
+MISC	$	Dwemer Cup	$	0.5	$	6
+MISC	$	Dwemer Dish	$	0.5	$	8
+MISC	$	Dwemer Gear	$	2	$	15
+MISC	$	Dwemer Gyro	$	2	$	15
+MISC	$	Dwemer Lever	$	2	$	15
+MISC	$	Dwemer Pan	$	0.5	$	8
+MISC	$	Dwemer Pan	$	3	$	10
+MISC	$	Dwemer Plate	$	1	$	8
+MISC	$	Dwemer Puzzle Cube	$	0	$	0
+MISC	$	Dwemer Scrap Metal	$	2	$	15
+MISC	$	East Empire Shipping Map	$	0	$	0
+MISC	$	Ebony Claw	$	0.5	$	800
+MISC	$	Eldergleam Sap	$	1	$	0
+MISC	$	Eldergleam Sapling	$	1	$	0
+MISC	$	Embalming Tool	$	3	$	2
+MISC	$	Embalming Tool	$	0.5	$	3
+MISC	$	Embalming Tool	$	0.5	$	3
+MISC	$	Embalming Tool	$	1	$	4
+MISC	$	Emerald	$	0.1	$	600
+MISC	$	Emerald Dragon Claw	$	0.5	$	600
+MISC	$	Empty Skooma Bottle	$	0.5	$	0
+MISC	$	Empty Wine Bottle	$	0.5	$	1
+MISC	$	Empty Wine Bottle	$	0.5	$	1
+MISC	$	Empty Wine Bottle	$	0.5	$	1
+MISC	$	Empty Wine Bottle	$	0.5	$	1
+MISC	$	Empty Wine Bottle	$	0.5	$	1
+MISC	$	Essence Extractor	$	1	$	0
+MISC	$	Firebrand Wine Case	$	6	$	0
+MISC	$	Firewood	$	5	$	5
+MISC	$	Flag	$	4	$	0
+MISC	$	Flag	$	4	$	0
+MISC	$	Flagon	$	0.5	$	1
+MISC	$	Flawless Amethyst	$	0.1	$	180
+MISC	$	Flawless Diamond	$	0.1	$	1000
+MISC	$	Flawless Emerald	$	0.1	$	750
+MISC	$	Flawless Garnet	$	0.1	$	150
+MISC	$	Flawless Ruby	$	0.1	$	350
+MISC	$	Flawless Sapphire	$	0.1	$	500
+MISC	$	Flower Basket	$	1	$	5
+MISC	$	Flute	$	2	$	25
+MISC	$	Flute	$	2	$	25
+MISC	$	Focusing Crystal	$	1	$	10
+MISC	$	Fork	$	0.5	$	3
+MISC	$	Fox Pelt	$	0.5	$	5
+MISC	$	Fragment of Wuuthrad	$	2	$	0
+MISC	$	Fragment of Wuuthrad	$	2	$	0
+MISC	$	Fragment of Wuuthrad	$	2	$	0
+MISC	$	Fragment of Wuuthrad	$	2	$	0
+MISC	$	Fragment of Wuuthrad	$	2	$	0
+MISC	$	Fragment of Wuuthrad	$	2	$	0
+MISC	$	Fragment of Wuuthrad	$	2	$	0
+MISC	$	Fragment of Wuuthrad	$	2	$	0
+MISC	$	Fragment of Wuuthrad	$	2	$	0
+MISC	$	Fragment of Wuuthrad	$	2	$	0
+MISC	$	Fragment of Wuuthrad	$	2	$	0
+MISC	$	Fragment of Wuuthrad	$	2	$	0
+MISC	$	Fragments of Wuuthrad	$	0	$	0
+MISC	$	Garnet	$	0.1	$	100
+MISC	$	Gildergreen Sapling	$	8	$	0
+MISC	$	Glass Claw	$	0.5	$	700
+MISC	$	Glenmoril Witch Head	$	4	$	0
+MISC	$	Goat Hide	$	1	$	5
+MISC	$	Goblet	$	0.5	$	5
+MISC	$	Goblet	$	0.5	$	4
+MISC	$	Goblet	$	0.5	$	4
+MISC	$	Goblet	$	0.5	$	5
+MISC	$	Gold	$	0	$	1
+MISC	$	Golden Claw	$	0.5	$	100
+MISC	$	Golden Claw	$	0.5	$	100
+MISC	$	Golden Ship Model	$	0	$	0
+MISC	$	Golden Urn	$	0	$	0
+MISC	$	Habd's Remains	$	1	$	0
+MISC	$	Hammer	$	3	$	1
+MISC	$	Heart of Winter	$	0.5	$	100
+MISC	$	Hilt of Mehrunes' Razor	$	2	$	0
+MISC	$	Honey Jar	$	1	$	0
+MISC	$	Honningbrew Decanter	$	0	$	0
+MISC	$	Horker Tusk	$	1	$	15
+MISC	$	Horn of Jurgen Windcaller	$	4	$	0
+MISC	$	Horse Hide	$	2	$	15
+MISC	$	Ice Wolf Pelt	$	1	$	15
+MISC	$	Imperial Documents	$	0	$	0
+MISC	$	Imperial War Horn	$	5	$	70
+MISC	$	Inkwell	$	0.3	$	1
+MISC	$	Iron Claw	$	0.5	$	75
+MISC	$	Ivory Dragon Claw	$	0.5	$	200
+MISC	$	Jarrin Root	$	0.5	$	100
+MISC	$	Jeweled Amulet	$	0.5	$	100
+MISC	$	Jeweled Candlestick	$	0	$	0
+MISC	$	Jeweled Flagon	$	0	$	0
+MISC	$	Jeweled Goblet	$	0	$	0
+MISC	$	Jeweled Pendant	$	0.5	$	200
+MISC	$	Jeweled Pitcher	$	0	$	0
+MISC	$	Jug	$	5	$	5
+MISC	$	Jug	$	0.5	$	0
+MISC	$	Jug	$	0.5	$	0
+MISC	$	Jug	$	0.5	$	0
+MISC	$	Jug	$	0.5	$	0
+MISC	$	Jug	$	2	$	10
+MISC	$	Katarina's Ornamental Ring	$	3	$	0
+MISC	$	Kettle	$	2	$	4
+MISC	$	Klimmek's Supplies	$	0	$	0
+MISC	$	Knife	$	0.5	$	6
+MISC	$	Kothyr's Head	$	4	$	0
+MISC	$	Lantern	$	2	$	1
+MISC	$	Large Decorative Dwemer Strut	$	15	$	10
+MISC	$	Large Dwemer Plate Metal	$	2	$	15
+MISC	$	Large Dwemer Strut	$	20	$	15
+MISC	$	Leather	$	2	$	10
+MISC	$	Leather Strips	$	0.1	$	3
+MISC	$	Left Eye of the Falmer	$	5	$	2500
+MISC	$	Lexicon	$	0	$	0
+MISC	$	Linen Wrap	$	3	$	2
+MISC	$	Lockpick	$	0	$	2
+MISC	$	Lute	$	4	$	25
+MISC	$	Malyn's Black Soul Gem	$	0.5	$	0
+MISC	$	Mammoth Tusk	$	5	$	150
+MISC	$	Mammoth Tusk Powder	$	0.5	$	0
+MISC	$	Map of Dragon Burials	$	0	$	0
+MISC	$	Mark of Dibella	$	0.5	$	0
+MISC	$	Mehrune's Razor Blade	$	3	$	5
+MISC	$	Mehrune's Razor Gem	$	3	$	5
+MISC	$	Mehrune's Razor Hilt	$	3	$	5
+MISC	$	Mehrune's Razor Scabbard	$	3	$	5
+MISC	$	Mercer's Plans	$	0.5	$	0
+MISC	$	Meridia's Beacon	$	0.5	$	0
+MISC	$	Michaela's Flagon	$	0.5	$	1
+MISC	$	Model Ship	$	0	$	0
+MISC	$	Moth in a Jar	$	1	$	0
+MISC	$	Nord War Horn	$	5	$	70
+MISC	$	Nurelion's Mixture	$	5	$	15
+MISC	$	Olava's Token	$	0.5	$	100
+MISC	$	Opaque Vessel	$	0	$	0
+MISC	$	Opaque Vessel	$	0	$	0
+MISC	$	Opaque Vessel	$	0	$	0
+MISC	$	Ornate Drinking Horn	$	0	$	0
+MISC	$	Package for Grelka	$	2	$	0
+MISC	$	Package for Verner	$	2	$	0
+MISC	$	Pelagius' Hip Bone	$	1	$	250
+MISC	$	Pest Poison	$	0.5	$	0
+MISC	$	Petty Soul Gem	$	0.5	$	0
+MISC	$	Pitchfork	$	4	$	1
+MISC	$	Pitchfork	$	4	$	1
+MISC	$	Pithi's Ornamental Ring	$	3	$	0
+MISC	$	Plate	$	0.5	$	1
+MISC	$	Plate	$	0.5	$	1
+MISC	$	Plate	$	0.5	$	3
+MISC	$	Plate	$	0.5	$	3
+MISC	$	Plate	$	0.5	$	5
+MISC	$	Platter	$	0.5	$	5
+MISC	$	Pommel Stone of Mehrunes' Razor	$	2	$	0
+MISC	$	Pot	$	3	$	5
+MISC	$	Pot	$	3	$	5
+MISC	$	Pot	$	3	$	5
+MISC	$	Pot	$	3	$	5
+MISC	$	Potema's Skull	$	0	$	0
+MISC	$	Queen Bee Statue	$	0	$	0
+MISC	$	Quill	$	0.5	$	1
+MISC	$	Quill of Gemination	$	0.1	$	150
+MISC	$	Refined Malachite	$	1	$	100
+MISC	$	Refined Moonstone	$	1	$	75
+MISC	$	Right Eye of the Falmer	$	5	$	2500
+MISC	$	Roasted Ox Head	$	1	$	3
+MISC	$	Roasted Ox Leg	$	1	$	1
+MISC	$	Roll of Paper	$	1	$	4
+MISC	$	Ruby	$	0.1	$	200
+MISC	$	Ruby Dragon Claw	$	0.5	$	400
+MISC	$	Ruined Book	$	2	$	5
+MISC	$	Ruined Book	$	2	$	5
+MISC	$	Runed Lexicon	$	0	$	0
+MISC	$	Sabre Cat Pelt	$	2	$	25
+MISC	$	Sabre Cat Snow Pelt	$	2	$	40
+MISC	$	Saerek's Skull Key	$	0.3	$	100
+MISC	$	Sapphire	$	0.1	$	400
+MISC	$	Sapphire Dragon Claw	$	0.5	$	500
+MISC	$	Satchel of Moon Sugar	$	0	$	0
+MISC	$	Saw	$	2	$	3
+MISC	$	Scabbard of Mehrunes' Razor	$	3	$	0
+MISC	$	Sealed Letter	$	0.5	$	100
+MISC	$	Sealed Scroll	$	0.5	$	0
+MISC	$	Shards of Mehrunes' Razor	$	6	$	0
+MISC	$	Shovel	$	4	$	3
+MISC	$	Shovel	$	4	$	3
+MISC	$	Sigil Stone	$	0	$	0
+MISC	$	Silver Candlestick	$	1	$	75
+MISC	$	Silver Hand Stratagem	$	0	$	0
+MISC	$	Sinding's Skin	$	4	$	0
+MISC	$	Skull	$	2	$	5
+MISC	$	Small Dwemer Lever	$	2	$	15
+MISC	$	Small Dwemer Plate Metal	$	2	$	15
+MISC	$	Snow Bear Pelt	$	3	$	75
+MISC	$	Snow Fox Pelt	$	0.5	$	7
+MISC	$	Solid Dwemer Metal	$	25	$	25
+MISC	$	Soul Gem Fragment	$	0.1	$	5
+MISC	$	Soul Gem Fragment	$	0.1	$	5
+MISC	$	Soul Gem Fragment	$	0.1	$	5
+MISC	$	Soul Gem Fragment	$	0.1	$	5
+MISC	$	Soul Gem Fragment	$	0.1	$	5
+MISC	$	Spigot	$	2	$	1
+MISC	$	Spoon	$	0.5	$	6
+MISC	$	Statue of Dibella	$	3	$	100
+MISC	$	Statue of Dibella	$	2	$	100
+MISC	$	Statue of Dibella	$	2	$	100
+MISC	$	StormCloak Documents	$	0	$	0
+MISC	$	Strange Crystal	$	1	$	10
+MISC	$	Strange Gem	$	0.5	$	0
+MISC	$	Sylgja's Satchel	$	0	$	0
+MISC	$	Tankard	$	0.5	$	1
+MISC	$	TestJeffLTankard	$	1	$	0
+MISC	$	The Dancer's Flute	$	2	$	3
+MISC	$	The White Phial (Empty)	$	0.5	$	0
+MISC	$	Tolfdir's Alembic	$	2	$	0
+MISC	$	Tongs	$	1	$	1
+MISC	$	Torc of Labyrinthian	$	1	$	10
+MISC	$	Torch	$	0.5	$	2
+MISC	$	Torch	$	0	$	0
+MISC	$	Torch	$	0	$	0
+MISC	$	Torchbug in a Jar	$	1	$	1
+MISC	$	Torpor Ingredient 1	$	0.5	$	20
+MISC	$	Torpor Ingredient 2	$	0.5	$	20
+MISC	$	Torpor Ingredient 3	$	0.5	$	20
+MISC	$	Torsten's Skull Key	$	0.3	$	100
+MISC	$	Torture Tools	$	2	$	15
+MISC	$	Torygg's War Horn	$	5	$	0
+MISC	$	Treoy's Ornamental Ring	$	3	$	0
+MISC	$	Troll Skull	$	3.5	$	5
+MISC	$	Unmelting Snow	$	1	$	0
+MISC	$	Unusual Gem	$	0.5	$	200
+MISC	$	Verner's Satchel	$	0	$	0
+MISC	$	Warped Soul Gem	$	0.5	$	0
+MISC	$	Warped Soul Gem	$	0.5	$	0
+MISC	$	Warped Soul Gem	$	0.5	$	0
+MISC	$	Warped Soul Gem	$	0.5	$	0
+MISC	$	Warped Soul Gem	$	0.5	$	0
+MISC	$	Warped Soul Gem	$	0.5	$	0
+MISC	$	Wedding Ring	$	0.5	$	0
+MISC	$	Werewolf Pelt	$	5	$	20
+MISC	$	Werewolf Totem	$	0.5	$	1
+MISC	$	Werewolf Totem	$	0.5	$	1
+MISC	$	Werewolf Totem	$	0.5	$	1
+MISC	$	Wolf Pelt	$	1	$	10
+MISC	$	Wooden Bowl	$	0.5	$	1
+MISC	$	Wooden Ladle	$	0.5	$	1
+MISC	$	Wooden Plate	$	0.5	$	1
+MISC	$	Wylandriah's Spoon	$	0	$	0
+MISC	$	Ysgramor's Soup Spoon	$	0.5	$	3
+MISC	$	Ale	$	0.5	$	5
+MISC	$	Alto Wine	$	0.5	$	12
+MISC	$	Alto Wine	$	0.5	$	12
+MISC	$	Apple Cabbage Stew	$	0.5	$	8
+MISC	$	Apple Pie	$	0.5	$	5
+MISC	$	Baked Potatoes	$	0.1	$	2
+MISC	$	Beef Stew	$	0.5	$	8
+MISC	$	Black-Briar Mead	$	0.2	$	25
+MISC	$	Black-Briar Reserve	$	0.5	$	100
+MISC	$	Boiled Creme Treat	$	0.5	$	4
+MISC	$	Bread	$	0.2	$	2
+MISC	$	Bread	$	0.2	$	2
+MISC	$	Cabbage	$	0.25	$	2
+MISC	$	Cabbage Potato Soup	$	0.5	$	5
+MISC	$	Cabbage Soup	$	0.5	$	5
+MISC	$	Carrot	$	0.1	$	1
+MISC	$	Charred Skeever Meat	$	0.2	$	4
+MISC	$	Chicken Breast	$	0.2	$	3
+MISC	$	Clam Meat	$	0.1	$	0
+MISC	$	Colovian Brandy	$	0.5	$	100
+MISC	$	Cooked Beef	$	0.5	$	5
+MISC	$	Dog Meat	$	0.2	$	3
+MISC	$	Dragon's Breath Mead	$	0.5	$	5
+MISC	$	Eidar Cheese Wedge	$	0.25	$	5
+MISC	$	Eidar Cheese Wheel	$	2	$	13
+MISC	$	Elsweyr Fondue	$	0.5	$	5
+MISC	$	Firebrand Wine	$	0.5	$	179
+MISC	$	Goat Cheese Wedge	$	0.25	$	4
+MISC	$	Goat Cheese Wheel	$	2	$	10
+MISC	$	Gourd	$	0.2	$	0
+MISC	$	Green Apple	$	0.1	$	3
+MISC	$	Grilled Chicken Breast	$	0.2	$	4
+MISC	$	Grilled Leeks	$	0.1	$	2
+MISC	$	Homecooked Meal	$	1	$	5
+MISC	$	Honey	$	0.1	$	2
+MISC	$	Honey Nut Treat	$	0.1	$	2
+MISC	$	Honningbrew Mead	$	0.5	$	20
+MISC	$	Horker Loaf	$	1	$	4
+MISC	$	Horker Meat	$	1	$	3
+MISC	$	Horker Stew	$	0.5	$	8
+MISC	$	Horse Haunch	$	2	$	4
+MISC	$	Horse Meat	$	2	$	3
+MISC	$	Jessica's Wine	$	0.5	$	12
+MISC	$	Leek	$	0.1	$	1
+MISC	$	Leg of Goat	$	1	$	3
+MISC	$	Leg of Goat Roast	$	1	$	4
+MISC	$	Long Taffy Treat	$	0.1	$	3
+MISC	$	Mammoth Cheese Bowl	$	0.5	$	3
+MISC	$	Mammoth Snout	$	3	$	6
+MISC	$	Mammoth Snout	$	3	$	6
+MISC	$	Mammoth Steak	$	2	$	8
+MISC	$	Mead with Juniper Berry	$	0.5	$	5
+MISC	$	Nord Mead	$	0.5	$	5
+MISC	$	Pheasant Breast	$	0.2	$	3
+MISC	$	Pheasant Roast	$	0.2	$	4
+MISC	$	Potato	$	0.1	$	1
+MISC	$	Rabbit Haunch	$	0.1	$	3
+MISC	$	Raw Beef	$	0.2	$	4
+MISC	$	Raw Rabbit Leg	$	0.1	$	2
+MISC	$	Red Apple	$	0.1	$	3
+MISC	$	Salmon Meat	$	0.1	$	3
+MISC	$	Salmon Steak	$	0.1	$	4
+MISC	$	Seared Slaughterfish	$	0.1	$	5
+MISC	$	Sliced Eidar Cheese	$	2	$	10
+MISC	$	Sliced Goat Cheese	$	2	$	8
+MISC	$	Spiced Beef	$	0.5	$	4
+MISC	$	Spiced Wine	$	0.5	$	7
+MISC	$	Sweet Roll	$	0.1	$	2
+MISC	$	Tomato	$	0.1	$	4
+MISC	$	Tomato Soup	$	0.5	$	5
+MISC	$	Vegetable Soup	$	0.5	$	5
+MISC	$	Venison	$	2	$	4
+MISC	$	Venison Chop	$	2	$	5
+MISC	$	Venison Stew	$	0.5	$	8
+MISC	$	Wine	$	0.5	$	7
+MISC	$	Corundum Ingot	$	1	$	40
+MISC	$	Corundum Ore	$	1	$	20
+MISC	$	Dwarven Metal Ingot	$	1	$	30
+MISC	$	Ebony Ingot	$	1	$	150
+MISC	$	Ebony Ore	$	1	$	60
+MISC	$	Gold Ingot	$	1	$	100
+MISC	$	Gold Ore	$	1	$	50
+MISC	$	Iron Ingot	$	1	$	7
+MISC	$	Iron Ore	$	1	$	2
+MISC	$	Malachite Ingot	$	1	$	100
+MISC	$	Malachite Ore	$	1	$	30
+MISC	$	Moonstone Ingot	$	1	$	75
+MISC	$	Moonstone Ore	$	1	$	30
+MISC	$	Orichalcum Ingot	$	1	$	45
+MISC	$	Orichalcum Ore	$	1	$	20
+MISC	$	Orichalcum Ingot	$	1	$	45
+MISC	$	Quicksilver Ore	$	1	$	25
+MISC	$	Quicksilver Ore	$	1	$	25
+MISC	$	Silver Ingot	$	1	$	50
+MISC	$	Silver Ore	$	1	$	25
+MISC	$	Steel Ingot	$	1	$	20
